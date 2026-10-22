@@ -69,3 +69,12 @@ footer { padding: 26px 0 42px; border-top: 1px solid var(--line); color: var(--m
   .hero { padding: 70px 0 52px; }
   .grid { grid-template-columns: 1fr; }
 }
+
+.policy ul { color: #3e3c37; padding-left: 22px; }
+.policy .card { margin: 16px 0; padding: 18px 22px; border-radius: 16px; color: #3e3c37; }
+.policy .note { color: var(--muted); font-size: 15px; }
+.policy .tw { overflow-x: auto; margin: 16px 0; }
+.policy table { width: 100%; border-collapse: collapse; font-size: 15px; background: #fffefb; }
+.policy th, .policy td { padding: 10px 12px; border: 1px solid var(--line); text-align: left; vertical-align: top; }
+.policy th { background: #f1eadc; }
+.policy article + .language { margin-top: 56px; }
